@@ -4,4 +4,4 @@
 
 <h2>about me</h2>
 
-I go by <b>Skribster</b>. I'm an aspiring software engineer still currently in high school. Right now, I'm currently interested in game development, compiler design, and anything low level. I'm also participating in FRC robotics. 
+I go by <b>Skribster</b>. Right now, I'm currently interested in game development, compiler design, and anything low level. I'm also participating in FRC robotics. 
