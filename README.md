@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="1463" height="674" alt="skribster_hello" src="https://github.com/user-attachments/assets/1e0d0cfd-ec7e-4f71-857b-b2fccf0b2a13" />
-</div>
+<img width="100%" height="auto" alt="2mE0Kk" src="https://github.com/user-attachments/assets/8e35a423-0fb3-43a1-8c48-b9d74c6b46e6" />
 
 <h2>about me</h2>
 
